@@ -13,3 +13,4 @@
 | $ tail pg19033.txt | operativos | Imprima en la salida estandar las últimas 10 líneas del archivo |
 | $ tail -5 pg19033.txt | operativos | Imprime en la salida estandar las últimas 5 líneas del archivo |
 | $ less pg19033.txt | operativos | Imprima una página a la vez |
+%%
